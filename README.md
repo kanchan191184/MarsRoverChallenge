@@ -1,4 +1,7 @@
 # MarsRoverChallenge
+
+To run this code, click on open in colab and run each block.
+
 Mars Rover Challenge in Python
 The code defines a class called Rover. Each instance of the Rover class represents a rover on Mars. The rover has attributes x and y to store its current position, and direction to store its facing direction.
 The Rover class has several methods:
